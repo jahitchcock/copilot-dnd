@@ -54,6 +54,9 @@
 | Vault Map Fragment    | From the Chamber of Flamebound Seal |
 | Thieves’ Tools        | Hardened picks, arcane parchment, cipher ink |
 | Whispersong Bead (used)| Expended during memory stitching |
+| Memory-Bound Tome     | Rituals for restoring/protecting erased identities |
+| Silent Ink            | Inscribes truths onto Vault surfaces |
+| Syndicate Token       | Scorched, faintly magical; linked to Vox |
 
 ---
 
