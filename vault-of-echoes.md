@@ -21,12 +21,12 @@ The Vault of Echoes, long sealed beneath layers of magical forgetfulness, flicke
 
 | Session | Title                    | Summary                                       |
 |---------|--------------------------|-----------------------------------------------|
-| [1](session-logs/session-1-vault-opens.md)       | Vault Opens              | Dex enters the Flamebound Trial               |
-| [2](session-logs/session-2-the-regret-vial-burns.md)       | The Regret Vial Burns    | Kalvi’s name begins to return                 |
-| [3](session-logs/session-3-the-stitch.md)       | The Stitch               | Ritual of restoration and backlash            |
-| [4](session-logs/session-4-archive-revealed.md)       | Archive Revealed         | Cloak claimed; Codex awakens                  |
-| [5](session-logs/session-5-downtime-level-up.md)       | Downtime & Level Up      | Dex upgrades; Kalvi gains clarity             |
-| [6](session-logs/session-6-threads-to-come.md)       | Threads to Come          | Awaiting the next name to be unsealed         |
+| [1](session-logs/session-01-vault-opens.md)       | Vault Opens              | Dex enters the Flamebound Trial               |
+| [2](session-logs/session-02-the-regret-vial-burns.md)       | The Regret Vial Burns    | Kalvi’s name begins to return                 |
+| [3](session-logs/session-03-the-stitch.md)       | The Stitch               | Ritual of restoration and backlash            |
+| [4](session-logs/session-04-archive-revealed.md)       | Archive Revealed         | Cloak claimed; Codex awakens                  |
+| [5](session-logs/session-05-downtime-level-up.md)       | Downtime & Level Up      | Dex upgrades; Kalvi gains clarity             |
+| [6](session-logs/session-06-threads-to-come.md)       | Threads to Come          | Awaiting the next name to be unsealed         |
 
 ---
 
